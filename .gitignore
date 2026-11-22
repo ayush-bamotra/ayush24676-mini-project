@@ -1,1 +1,7 @@
-
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.py[cod]
+artifacts/*.joblib
+artifacts/*.json
